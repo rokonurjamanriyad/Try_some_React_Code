@@ -1,0 +1,25 @@
+.cal{
+    border: 1px solid rgb(129, 129, 129);
+    width: 310px;
+    height: 703px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+
+.Btn{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Btn button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+}
+.sit{
+    width: 288px;
+    height: 600px;
+    border: 1px solid rgb(0, 0, 0);
+    margin: auto;
+    margin-top: 80px;
+}
